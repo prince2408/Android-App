@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "654748436990",
+    "project_id": "nicewallet-1349"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654748436990:android:30ee58fa9b4e1900",
+        "android_client_info": {
+          "package_name": "com.example.bpanda.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2Tz6_6OYg4jDxxWV3nn0TiuLM0LPH1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654748436990:android:de509d096a25d4da",
+        "android_client_info": {
+          "package_name": "com.nice.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG2Tz6_6OYg4jDxxWV3nn0TiuLM0LPH1M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
